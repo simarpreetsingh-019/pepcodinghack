@@ -15,4 +15,6 @@ This project is made with pupeeteer, nodemailer.
 ## demo video of working:
 
 
-"https://user-images.githubusercontent.com/47384034/114813422-b4150680-9dcf-11eb-97f6-7a259bda6387.mp4"
+https://user-images.githubusercontent.com/47384034/114814423-cd1eb700-9dd1-11eb-9737-2968b0398e02.mp4
+
+
