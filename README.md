@@ -15,3 +15,7 @@ This project is made with pupeeteer, nodemailer.
 ## demo video of working:
 
 
+
+<video controls autoplay>
+  <source src="https://user-images.githubusercontent.com/47384034/114813422-b4150680-9dcf-11eb-97f6-7a259bda6387.mp4" type="video/mp4">
+</video>
